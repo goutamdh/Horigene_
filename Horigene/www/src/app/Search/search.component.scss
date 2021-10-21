@@ -1,0 +1,38 @@
+.logo
+{
+  display: block !important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+  width: 50%;
+
+}
+.search-box:focus~.list,
+.dropdown-menu:hover {
+    display: block !important;
+}
+.dropdown-menu {
+    max-height: 350px;
+    overflow: auto;
+    margin: 0px;
+    border: none;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    min-width: 500px;
+    ul {
+        li {
+             ::ng-deep a {
+                cursor: pointer;
+                display: block;
+                padding: 10px;
+                &:hover {
+                    background-color: #f5f5f5;
+                }
+            }
+        }
+    }
+}
+
+
+.search-help-icon{
+width: 15px;
+opacity: 0.5;
+}
