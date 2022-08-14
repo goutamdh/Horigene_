@@ -1,4 +1,4 @@
-Horigene web app with Angular and Flask.
+Horigene web app with Angular and Flask. It is resarch paper Project 
 ====
 
 Horigene Web Application power by Bioclues.
