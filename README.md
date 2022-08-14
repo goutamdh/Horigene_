@@ -82,4 +82,4 @@ Routes
 Authors
 ----
 
-- Ismael Taboada: [profile](https://github.com/goutamdh)
+- Goutam Kumar Dhandh: [profile](https://github.com/goutamdh)
