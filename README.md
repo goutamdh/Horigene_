@@ -1,7 +1,7 @@
-Horigene web app with Angular and Flask. It is resarch paper Project 
+Horigene web app. 
 ====
 
-Horigene Web Application power by Bioclues.
+Horigene Web Application power by Bioclues. It is resarch paper Project 
 
 ![alt text](https://github.com/goutamdh/Horigene/blob/master/app_Image/HorigeneServer.png?raw=true)
 
