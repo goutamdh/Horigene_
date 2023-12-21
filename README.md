@@ -53,7 +53,7 @@ Install python dependencies:
 
 Install angular dependencies:
 ```sh
-$ cd sample-flask-angular/angular
+$ cd www
 $ npm install
 ```
 
